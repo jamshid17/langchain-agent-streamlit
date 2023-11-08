@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'langchain-agent'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F56C89A7CC41473580BC949C3478E063 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CC8449DA9674C919D7AB17AC6F7A1D9 }}
